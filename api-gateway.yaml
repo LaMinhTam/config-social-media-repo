@@ -24,7 +24,7 @@ spring:
           use-insecure-trust-manager: true
       routes:
         - id: auth-service
-          uri: lb://auth-service
+          uri: https://auth-service-yl52.onrender.com
           predicates:
             - Path=/auth/**
             - Path=/oauth2/**
