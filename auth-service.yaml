@@ -18,7 +18,7 @@ spring:
       port: 14434
       password: QSXXcWgl2sserlbefUsJlestoMv5fuF9
   datasource:
-    url: jdbc:mysql://uzwn5xabb6g4leoj:ztk0GbYx1HKJYFR5xyLw@bucjeknhu545oao2934p-mysql.services.clever-cloud.com:3306/bucjeknhu545oao2934p
+    url: jdbc:mysql://google/auth-db:CloudSqlInstance=tidy-alchemy-428010-r8:asia-southeast1:authdb&socketFactory=com.google.cloud.sql.mysql.SocketFactory
     username: uzwn5xabb6g4leoj
     password: ztk0GbYx1HKJYFR5xyLw
   jpa:
