@@ -4,7 +4,7 @@ server:
 eureka:
   client:
     service-url:
-      defaultZone: ${EUREKA_CLIENT_SERVICEURL_DEFAULTZONE:https://service-registry-p3hn.onrender.com/eureka/}
+      defaultZone: ${EUREKA_CLIENT_SERVICEURL_DEFAULTZONE:https://service-registry-f8b1.onrender.com/eureka/}
 
 management:
   tracing:
