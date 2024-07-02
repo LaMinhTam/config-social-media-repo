@@ -11,7 +11,6 @@ eureka:
 spring:
   data:
     redis:
-      database: 0
       host: redis-14434.c292.ap-southeast-1-1.ec2.redns.redis-cloud.com
       port: 14434
       password: QSXXcWgl2sserlbefUsJlestoMv5fuF9
