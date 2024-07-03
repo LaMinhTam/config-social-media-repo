@@ -17,10 +17,6 @@ spring:
       host: redis-14434.c292.ap-southeast-1-1.ec2.redns.redis-cloud.com
       port: 14434
       password: QSXXcWgl2sserlbefUsJlestoMv5fuF9
-  datasource:
-    url: jdbc:mysql://database-1.cjqaeqo4qyd9.ap-southeast-1.rds.amazonaws.com/auth_db
-    username: root
-    password: mysqlcloud
   jpa:
     hibernate:
       ddl-auto: update
