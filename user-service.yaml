@@ -17,3 +17,11 @@ spring:
     authentication:
       username: neo4j
       password: 27q2I0_Lhc144m96JvGCFxPe6dDq5qCjfqWXlRwcYZ0
+  rabbitmq:
+    host: octopus.rmq3.cloudamqp.com
+    port: 5671
+    username: jripffqi
+    password: FU4X3xuxkVca33eee0zB3UomHrvN6_x_
+    virtual-host: jripffqi
+    ssl:
+      enabled: true
